@@ -1,3 +1,3 @@
 # Deployment
-deployed at https://gdsc.github.io/gdsc-cuh/
+deployed at https://gdsccuh.github.io/gdsc-cuh/
 with github pages
